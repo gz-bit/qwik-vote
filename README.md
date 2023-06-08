@@ -9,7 +9,9 @@
 	○ GitHub: Yes
 • pnpm qwik add prisma
 • pnpm qwik add tailwind
-
+```
+<i>edit .gitignore -> add</i>: <b>*.env</b>
+```
 • get remote add origin https://github.com/gz-bit/qwik-vote.git
 • git add --all
 • git commit -m "added prisma and tailwind"
