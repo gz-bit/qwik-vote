@@ -13,6 +13,7 @@
 • get remote add origin https://github.com/gz-bit/qwik-vote.git
 • git add --all
 • git commit -m "added prisma and tailwind"
+• git branch -M main
 • git push -u origin main
 ```
 
